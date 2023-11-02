@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used a DJ.
 
-[![Milad's github stats](https://github-readme-stats.vercel.app/api?username=tehranimilad)](https://github.com/tehranimilad/github-readme-stats)
+![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehranimilad92&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tehranimilad)](https://github.com/tehranimilad/github-readme-stats)
 
