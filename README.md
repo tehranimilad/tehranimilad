@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be a DJ.
 
-![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehranimilad&show_icons=true&theme=radical)
+![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehranimilad&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tehranimilad)](https://github.com/tehranimilad/github-readme-stats)
 
