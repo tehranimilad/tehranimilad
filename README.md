@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on: React.JS
 - 📫 How to reach me: tehranimilad92@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used a DJ.
+- ⚡ Fun fact: I used to be a DJ.
 
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehranimilad&show_icons=true&theme=radical)
 
