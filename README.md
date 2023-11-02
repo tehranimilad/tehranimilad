@@ -8,5 +8,5 @@
 - ⚡ Fun fact: I used a DJ.
 - 
 [![Milad's github stats](https://github-readme-stats.vercel.app/api?username=tehranimilad)](https://github.com/tehranimilad/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tehranimilad&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tehranimilad=javascript,css,scss,html&theme=tokyonight)
 
